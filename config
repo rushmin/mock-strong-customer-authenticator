@@ -1,0 +1,3 @@
+<AuthenticatorConfig name="MockStrongAuthenticator" enabled="true">
+              <Parameter name="initURL">https://localhost:9443/mock-strong-authenticator-endpoint/consent.jsp</Parameter>
+        </AuthenticatorConfig>
